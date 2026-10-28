@@ -1,0 +1,5 @@
+page 1: 20 parsed, 20 new, http 200
+page 2: 20 parsed, 20 new, http 200
+page 3: 20 parsed, 20 new, http 200
+
+wrote books.csv: 60 rows, 5 columns
